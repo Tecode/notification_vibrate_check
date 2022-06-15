@@ -1,6 +1,6 @@
 # notification_vibrate_check
 
-A new Flutter project.
+Check if the phone notification message has sound turned on.
 
 ## Getting Started
 
